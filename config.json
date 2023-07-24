@@ -1,6 +1,7 @@
 {
     "template": {
         "name": "My-Cool-Template",
+        "version": "latest",
         "brandkit": "cool-blue"
     }
 }
