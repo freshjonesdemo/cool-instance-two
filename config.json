@@ -1,7 +1,5 @@
 {
     "template": {
-        "name": "My-Cool-Template",
-        "version": "latest",
-        "brandkit": "cool-violet"
+        "name": "My-Cool-Template"
     }
 }
