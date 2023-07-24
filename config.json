@@ -1,6 +1,6 @@
 {
     "template": {
         "name": "My-Cool-Template",
-        "brand-kit": "cool-tomato"
+        "brandkit": "cool-tomato"
     }
 }
